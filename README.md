@@ -1,6 +1,6 @@
 # Hola, soy Nikole Melgar
 
-## Data Engineer en formación
+## Data Engineer 
 
 Soy una desarrolladora enfocada en Ingeniería de Datos, automatización de procesos y análisis de información.
 
