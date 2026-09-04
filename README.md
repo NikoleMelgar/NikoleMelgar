@@ -14,7 +14,6 @@ Actualmente trabajo con Python, Pandas, SQL y PostgreSQL, desarrollando procesos
 
 - Desarrollo procesos ETL con Python y Pandas.
 - Trabajo con limpieza, transformación y validación de datos.
-- Tengo experiencia procesando archivos Excel y generando resultados consolidados.
 - Desarrollo dashboards con Streamlit.
 - Trabajo con bases de datos y consultas SQL.
 - Me interesa la automatización y el diseño de pipelines de datos.
