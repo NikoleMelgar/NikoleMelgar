@@ -78,5 +78,5 @@ Mi objetivo es desarrollarme como Data Engineer y participar en proyectos relaci
 ## Contacto
 
 - GitHub: [NikoleMelgar](https://github.com/NikoleMelgar)
-- LinkedIn: [próximamente](https://www.linkedin.com/in/nikole-melgar-5108b5192/)
+- LinkedIn: (https://www.linkedin.com/in/nikole-melgar-5108b5192/)
 
